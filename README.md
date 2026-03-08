@@ -21,13 +21,13 @@ This system assigns employees to shifts based on availability and operational ne
 ## Screenshots
 
 ### Login Screen
-![Login](System login screen.png)
+![Login](login-screen.png)
 
 ### Excel Upload
-![Upload](Excel file upload screen.png)
+![Upload](excel-upload.png)
 
 ### Shift Assignment
-![Shift](Shift assignment screen.png)
+![Shift](shift-assignment.png)
 
 ## Reports
 The project also includes documentation:
